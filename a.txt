@@ -1,7 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-你在他乡还好吗？
-不是很好，明白吗？
-在说一遍，我过得很不好
-67890-
-rtyuiop;''
+这是一个简单的springboot2
